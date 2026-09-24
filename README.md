@@ -163,4 +163,3 @@ Across every statistical method used, the p-values obtained (0.90 for the hypoth
 
 ---
 
-*This project was completed as part of the Udacity Data Analyst / Practical Statistics Nanodegree program.*
