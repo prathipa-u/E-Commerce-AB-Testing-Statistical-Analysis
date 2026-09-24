@@ -127,33 +127,6 @@ Across every statistical method used, the p-values obtained (0.90 for the hypoth
 - `matplotlib` — data visualization
 - Jupyter Notebook
 
-## Repository Structure
-
-```
-├── Analyze_ab_test_results_notebook_submitted.ipynb   # Full analysis notebook
-├── ab_data.csv                                        # Experiment data (not included — see note below)
-├── countries.csv                                      # Country mapping data (not included — see note below)
-└── README.md
-```
-
-> **Note:** The raw data files (`ab_data.csv`, `countries.csv`) are part of the original Udacity project dataset and are not redistributed in this repository. Add your own copies of these files to the repository root before running the notebook.
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy statsmodels matplotlib jupyter
-   ```
-3. Add `ab_data.csv` and `countries.csv` to the project root.
-4. Launch the notebook:
-   ```bash
-   jupyter notebook Analyze_ab_test_results_notebook_submitted.ipynb
-   ```
 
 ## References
 
