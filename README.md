@@ -15,8 +15,6 @@ A statistical analysis of an A/B test run by an e-commerce company to determine 
 - [Key Results](#key-results)
 - [Conclusion & Recommendation](#conclusion--recommendation)
 - [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
 - [References](#references)
 
 ## Project Overview
