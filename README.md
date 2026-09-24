@@ -36,7 +36,7 @@ The decision is based on rigorous statistical evidence rather than the raw, obse
 
 ## Dataset
 
-The analysis uses two files:
+The analysis uses two files, provided as part of the Udacity Data Analyst Nanodegree program:
 
 **`ab_data.csv`** — the core experiment data (294,478 rows):
 
